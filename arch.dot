@@ -1,0 +1,44 @@
+digraph G {
+
+    Accueil -> Gestion
+    Accueil -> Activités
+    Accueil -> Bots
+    Accueil -> Canaux
+    Accueil -> Composants
+
+    Gestion -> Règles
+    Gestion -> FAQ
+    Gestion -> Staff
+    Gestion -> Ambassade
+    Gestion -> Tickets
+
+    Staff -> Fonctions_S
+    Staff -> Membres_S
+    Staff -> Guide_Modo
+
+    Ambassade -> Fonctions_A
+    Ambassade -> Membres_A
+    Ambassade -> Guide_Ambassadeur
+
+    Canaux -> Catégories
+    Canaux -> Généraux
+    Canaux -> Techniques
+
+    Activités -> Défis
+    Activités -> Game_Jam
+
+    Composants -> Commandes_Utiles
+    Composants -> Emotes
+    Composants -> Rôles
+
+    Rôles -> Techniques_R
+    Rôles -> Couleurs_R
+
+    Accueil [shape=Mdiamond, style=filled]
+    Gestion [shape=Squared]
+    Activités [shape=Squared]
+    Canaux [shape = Squared]
+    Staff [shape=Squared]
+    Ambassade [shape=Squared]
+    Composants [shape=Squared]
+}

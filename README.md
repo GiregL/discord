@@ -1,19 +1,18 @@
-# Discord
+# Not a Name
 
-Règles et gestion du serveur Discord de programmation Not a Name : https://discord.gg/zcWp9sC
+__Not a Name__ est un serveur Discord orienté sur l'Informatique en général et l'entre-aide.
+Ce dépôt Git est la représentation de sa configuration.
 
-# Organisation
+[Lien du serveur](https://discord.gg/zcWp9sC)
 
-Ce repository représente le serveur Discord et son organisation, ses règles, etc.
-Vous pouvez suggérer une modification en créant une issue ou une pull request.
+L'architecture de ce dépôt est décrite par le fichier [arch.dot](./arch.dot)
 
-# Sommaire
+Pour mieux comprendre: [L'architecture en image](./arch.png)
 
-- [Bots](bots.md)
-- [Canaux](canaux.md)
-- [Commandes Bots](commandes-bots.md)
-- [FAQ](faq.md)
-- [Lives](live/README.md)
-- [Projets](projets/README.md)
-- [Règles](règles.md)
-- [Staff](staff.md)
+## Sommaire
+
+- [Gestion]()
+- [Activités]()
+- [Canaux]()
+- [Composants]()
+- [Bots](./bots.md)
